@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HorseRace.Bet" Collapsed="true">
+    <Position X="1.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAEAgAAIAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HorseRace.Horse" Collapsed="true">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACAAQAAAAAACAAAAIAAAEAEAAAAAAAAAAAAAAAiAI=</HashCode>
+      <FileName>Horse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HorseRace.Jassy" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Jassy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HorseRace.Megan" Collapsed="true">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Megan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HorseRace.Punter" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAgAAAAAGAgQAAAAAEAABEAAoAAAAAAA=</HashCode>
+      <FileName>Punter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HorseRace.PunterFactory" Collapsed="true">
+    <Position X="6.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PunterFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HorseRace.Rocky" Collapsed="true">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rocky.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
